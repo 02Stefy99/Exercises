@@ -1,0 +1,35 @@
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\Tutorial\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\Tutorial\DbConnection\DbConnection\obj\Debug\DbConnection.Form1.resources
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\Tutorial\DbConnection\DbConnection\obj\Debug\DbConnection.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\Tutorial\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\Tutorial\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.Form1.resources
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.exe.config
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.exe
+Z:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.pdb
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.exe.config
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.Form1.resources
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.Properties.Resources.resources
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.cache
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.exe
+X:\percorso ERP developer\alunni\BALESTRINO STEFANIA\DbConnection\DbConnection\obj\Debug\DbConnection.pdb
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\bin\Debug\DbConnection.exe.config
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.Form1.resources
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.exe
+C:\Users\pc\OneDrive\Documenti\PROGRAMMAZIONE\percorso ERP developer\DbConnection\DbConnection\obj\Debug\DbConnection.pdb

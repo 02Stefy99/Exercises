@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb

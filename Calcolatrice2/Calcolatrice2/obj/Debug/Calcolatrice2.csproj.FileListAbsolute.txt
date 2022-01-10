@@ -1,0 +1,10 @@
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\bin\Debug\Calcolatrice2.exe.config
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\bin\Debug\Calcolatrice2.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\bin\Debug\Calcolatrice2.pdb
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.Form1.resources
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Calcolatrice2\Calcolatrice2\obj\Debug\Calcolatrice2.pdb

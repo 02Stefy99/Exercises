@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\bin\Debug\Listino.exe.config
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\bin\Debug\Listino.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\bin\Debug\Listino.pdb
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\obj\Debug\Listino.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\obj\Debug\Listino.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\obj\Debug\Listino.exe
+C:\Users\pc\OneDrive\Documenti\Visual Studio 2019\Listino\Listino\obj\Debug\Listino.pdb
